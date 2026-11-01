@@ -7,3 +7,6 @@ bench/results/**/raw/
 bench/video/raw*/
 bench/video/frames/
 bench/explore/state/
+
+# Downloaded YouTube videos
+/youtube_videos/
